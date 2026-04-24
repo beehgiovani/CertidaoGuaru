@@ -1,0 +1,7 @@
+playwright
+python-dotenv
+requests
+pillow
+ddddocr
+streamlit
+playwright-stealth

@@ -1,0 +1,21 @@
+# Ambientes Virtuais
+venv/
+env/
+.env
+
+# Arquivos de log
+*.log
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Arquivos Temporários e de Saída
+output/
+temp_task.json
+*.pdf
+*.png
+
+# Arquivos do Sistema Operacional
+.DS_Store
+Thumbs.db
